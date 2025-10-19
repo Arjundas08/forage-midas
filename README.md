@@ -21,7 +21,7 @@ In real financial systems, latency, scaling, reliability and message handling ar
 - H2 Database (in-memory)  
 - REST API (Spring Web) & Controllers  
 - JUnit / Mockito (Testing)  
-- GitHub Actions (CI pipeline) — *optional: if you set this up*.
+
 
 ## 5. What I Learned  
 - How to design and implement event-driven architectures using Kafka.  
@@ -29,14 +29,10 @@ In real financial systems, latency, scaling, reliability and message handling ar
 - Best practices for REST API design and integration with databases.  
 - Hands-on with testing and local environment setup for rapid development.
 
-## 6. Next Steps & Improvements  
-- Replace H2 with a persistent relational DB (e.g., PostgreSQL) for production-level simulation.  
-- Deploy microservices to cloud (AWS/Azure/GCP) and use managed Kafka.  
-- Add logging/monitoring (e.g., with Prometheus/Grafana) for observability.  
-- Expand APIs to include authentication/authorization (OAuth2/JWT) and API gateway.
 
 ## 7. Certificate  
-Issued by **J.P. Morgan & Forage** on *<insert actual date>*.  
-![Certificate Screenshot](link-to-certificate-image-if-you-upload)  
+Issued by **J.P. Morgan & Forage** on *<insert OCTOBER 2025>*.  
+![Certificate Screenshot](Certificate PDF (Forage / completion):
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_68f4773da4fed085fdfd1aeb_1760874468135_completion_certificate.pdf)  
 
-*Feel free to explore the code, and reach out with any questions!*
+
